@@ -1,12 +1,12 @@
-# Input-aware Neural Knowledge Tracing Machine
-ICPR Workshop'2021: Input-aware Neural Knowledge Tracing Machine.
+# Input-Aware Neural Knowledge Tracing Machine
+ICPR Workshop'2021: Input-Aware Neural Knowledge Tracing Machine.
 (Tensorflow implementation for INKTM)
 
-This is the code for the paper: [Input-aware Neural Knowledge Tracing Machine](https://link.springer.com/chapter/10.1007/978-3-030-68799-1_25)  
+This is the code for the paper: [Input-Aware Neural Knowledge Tracing Machine](https://link.springer.com/chapter/10.1007/978-3-030-68799-1_25)  
 
 If you find this code is useful for your research, please cite as:
 ```
-Moyu Zhang, Xinning Zhu, Chunhong Zhang, and Yang Ji. 2021. Input-Aware Neural Knowledge Tracing Machine. In the Proceedings of Pattern Recognition, ICPR International Workshops and Challenges (ICPR 2021), 345-360.
+Moyu Zhang, Xinning Zhu, and Yang Ji. 2021. Input-Aware Neural Knowledge Tracing Machine. In the Proceedings of Pattern Recognition, ICPR International Workshops and Challenges (ICPR 2021), 345-360.
 ```
 
 ## Setups
