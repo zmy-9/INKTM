@@ -14,3 +14,16 @@ Moyu Zhang, Xinning Zhu, and Yang Ji. 2021. Input-Aware Neural Knowledge Tracing
 * Tensorflow 1.14.0
 * Scikit-learn 0.21.3
 * Numpy 1.17.2
+
+## How to run model
+### If you want to preprocess data, you can do as below:
+```
+python3 encode.py
+```
+Take ASSISTments2009 dataset as an example, you just need to download the original dataset and set the path of dataset.
+### If you want to predict students' answer, you can do as below:
+```
+python3 main.py
+```
+
+(If you have any questions, please contact me on time. My E-mail is zhangmoyu@bupt.edu.cn.)
