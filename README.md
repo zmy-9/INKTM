@@ -2,6 +2,8 @@
 ICPR Workshop'2021: Input-Aware Neural Knowledge Tracing Machine.
 (Tensorflow implementation for INKTM)
 
+The codes are put into the file INKTM_github!
+
 This is the code for the paper: [Input-Aware Neural Knowledge Tracing Machine](https://link.springer.com/chapter/10.1007/978-3-030-68799-1_25)  
 
 If you find this code is useful for your research, please cite as:
