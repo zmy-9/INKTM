@@ -28,4 +28,4 @@ Take ASSISTments2009 dataset as an example, you just need to download the origin
 python3 main.py
 ```
 
-(If you have any questions, please contact me on time. My E-mail is zhangmoyu@bupt.edu.cn.)
+(If you have any questions, please contact me on time. My E-mail is zhangmoyu@bupt.cn.)
